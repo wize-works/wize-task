@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: wize-task-service
+  namespace: wizeworks
+  labels:
+    app: wize-task
+spec:
+  selector:
+    app: wize-task
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+  type: ClusterIP
