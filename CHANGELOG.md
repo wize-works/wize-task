@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wize-works/wize-task/compare/v1.1.0...v1.2.0) (2025-05-03)
+
+
+### Features
+
+* Upgrade @wizeworks/graphql-factory-mongo to version 1.26.0 ([67dcbb8](https://github.com/wize-works/wize-task/commit/67dcbb896d9e666b5fd93810b9da0354dad1c73a))
+
 # [1.1.0](https://github.com/wize-works/wize-task/compare/v1.0.0...v1.1.0) (2025-05-03)
 
 
